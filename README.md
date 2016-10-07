@@ -34,15 +34,14 @@
 
 ＃安装
 
-1.安装Visual Studio代码0.10.1或更高版本
+1. 安装Visual Studio代码0.10.1或更高版本
+2. 启动代码
+3. 在命令面板`按Ctrl-Shift键-P` （Windows和Linux）或 `Cmd-Shift-P` （OSX）
+4. 选择安装扩展
+5. 输入 `HTML-Snippets`
+6. 选择扩展
+7. 刷新Visual Studio代码
 
-2.启动代码
-3.在命令面板`按Ctrl-Shift键-P` （Windows和Linux）或 `Cmd-Shift-P` （OSX）
-4.选择安装扩展
-5.输入`HTML-Snippets`
-6.选择扩展
-7.刷新Visual Studio代码
- 
 ＃ 联系
 如果您发现任何问题，或者有建议，请在tweet我 @m_abusaid
 
