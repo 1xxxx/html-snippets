@@ -42,10 +42,10 @@
 6. Choose the extension
 7. Reload Visual Studio Code
  
-# Contact
-If you find any issue or have a suggestion please tweet me on @m_abusaid
+＃ 联系
+如果您发现任何问题，或者有建议，请tweet我 @m_abusaid
 
-# Source
+# 资源
 [Github](https://github.com/abusaidm/html-snippets)
 
 ** Enjoy!**
