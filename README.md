@@ -35,6 +35,7 @@
 ＃安装
 
 1.安装Visual Studio代码0.10.1或更高版本
+
 2.启动代码
 3.在命令面板`按Ctrl-Shift键-P` （Windows和Linux）或 `Cmd-Shift-P` （OSX）
 4.选择安装扩展
