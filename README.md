@@ -32,18 +32,18 @@
 
 ![alt text](http://i.imgur.com/VOhBvHb.gif "Snippets Preview")
 
-# Installation
+＃安装
 
-1. Install Visual Studio Code 0.10.1 or higher
-2. Launch Code
-3. From the command palette `Ctrl-Shift-P` (Windows, Linux) or `Cmd-Shift-P` (OSX)
-4. Select Install Extension
-5. Type `HTML-Snippets`
-6. Choose the extension
-7. Reload Visual Studio Code
+1.安装Visual Studio代码0.10.1或更高版本
+2.启动代码
+3.在命令面板`按Ctrl-Shift键-P` （Windows和Linux）或 `Cmd-Shift-P` （OSX）
+4.选择安装扩展
+5.输入`HTML-Snippets`
+6.选择扩展
+7.刷新Visual Studio代码
  
 ＃ 联系
-如果您发现任何问题，或者有建议，请tweet我 @m_abusaid
+如果您发现任何问题，或者有建议，请在tweet我 @m_abusaid
 
 # 资源
 [Github](https://github.com/abusaidm/html-snippets)
