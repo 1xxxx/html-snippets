@@ -1,30 +1,30 @@
-# README
-## Visual Studio Code HTML Snippets
- 
-This extension adds rich language support for the HTML Markup to VS Code, including:
+＃自述
+## Visual Studio代码的HTML片段
+ 
+这个扩展增加了对HTML标记VS代码，包括丰富的语言支持：
 
-- Full HTML5 Tags
-- Colorization
-- Snippets
-- [partially implemented] Quick Info
-- description mentions if tag deprecated 
+- HTML5标签
+- 彩色化
+- 代码段
+- [部分实现]快速信息
+- 描述中提及假如代码已弃用
 
-### Update 2
-- fixed a bug with line cursor on vscode 1.5.1
+###更新2
+- 固定线路光标漏洞的vscode1.5.1
 
-### Update 1
-- removed deprecated tags [acronym, applet, basefont, center, dir, font, frame, frameset, noframes, strike, tt]
-- fixed LI tag issue, you couldn't add new line in the tags
+###更新1
+- 删除过时的标签[首字母缩写词，小程序，基准字体，中心，DIR，字体，框架，框架，无框架，罢工，TT]
+- 修复LI标签的问题，你无法在代码添加新的一行
 
-### Todo
-- [on-going]Improve syntax layout.
-- [on-going]Add support for Tab to end of line.
-- [on-going]Populate Tags with properties.
+###待办事项
+- [进行中的]提高语法布局。
+- [进行中的]添加Tab键行结束中支持。
+- [进行中的]填写包含属性的标签。
 
-# Using
-Type part of a snippet, press enter, and the snippet unfolds.
+＃应用
+代码片段类型的组成部分，按回车键，与段展开。
 
-Snippets named as the tag without braces 
+命名为没有大括号标签代码段
     
     div --> <div></div>
     doc --> <!DOCTYPE html>
